@@ -7,6 +7,7 @@ class ProgressWindow:
         self.window.title(title)
         self.window.resizable(False, False)
         self.window.grab_set()
+        self.window.iconbitmap("data/logo.ico")
 
         # Status Label
         self.status_label = ttk.Label(self.window, text="Processing",

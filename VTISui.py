@@ -6,6 +6,7 @@ class MainUI:
         tk2 = ttk.Window(themename="vapor")
         tk2.title("VTIS - Video To Image Sequence")
         tk2.resizable(False, False)
+        tk2.iconbitmap("data/logo.ico")
         
         self.SelectVideo = ttk.Button(tk2, text='Open', bootstyle="primary")
         self.SelectVideo.grid(column=2, row=0, padx=5, pady=5)

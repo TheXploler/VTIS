@@ -11,7 +11,7 @@ import VTISui as baseui # Main UI
 from PBUI import ProgressWindow # Progress Bar UI
 
 class ConfigManager:
-    def __init__(self, config_file='vtis_config.json'):
+    def __init__(self, config_file='data/vtis_config.json'):
         if getattr(sys, 'frozen', False):
             script_dir = os.path.dirname(sys.executable)
         else:
