@@ -1,6 +1,12 @@
 ![banner](github/banner.png)
-<h1  align="center">VTIS</h1>
-<p  align="center">A simple lightweight tool to convert videos into an image sequence without having to tinker with ffmpeg commands or opening up heavy dedicated software like premiere</p>  
+<h1 align="center">VTIS</h1>
+<p align="center">A simple lightweight tool to convert videos into an image sequence without having to tinker with ffmpeg commands or opening up heavy dedicated software like premiere</p>  
+
+## Demo
+<center>
+
+![Demo Video](github/demo.gif)
+</center>
 
 ## Installation
 Use [pip](https://pip.pypa.io/en/stable/) to install requirements.txt
