@@ -25,7 +25,7 @@ Use [pip](https://pip.pypa.io/en/stable/) to install requirements.txt
   pip install -r requirements.txt
 ```
 
-Or you can download the [executable](https://github.com/TheXploler/Video-To-Image-Sequence/releases/latest)
+Or you can download the [executable](https://github.com/TheXploler/VTIS/releases/latest)
 
 > [!IMPORTANT]
 > On **Windows**, you may see a warning message indicating that the app is from an unknown publisher. Click **More info** and then **Run anyway** to proceed.
